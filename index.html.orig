@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<<<<<<< HEAD
+				<li>This is line 3.</li>
+		<h1>Hello!</h1>
+=======
 	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	<style>
 		body {
@@ -12,14 +16,22 @@
 			padding: 0;
 		}
 	</style>
+>>>>>>> 0b7e8ec1e2b478e7ac4f1652e1af25c1b967de69
 </head>
 <body>
 	<div>
 		<h1>Hello!</h1>	
 		<ul>
 			<li>This is line 1.</li>
+<<<<<<< HEAD
+						<li>This is line 3.</li>
+			<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+=======
+>>>>>>> 0b7e8ec1e2b478e7ac4f1652e1af25c1b967de69
 			<li>This is line 2.</li>
 			<li>This is line 3.</li>
+						<li>This is line 3.</li>
+
 		</ul>
 	</div>
 </body>
